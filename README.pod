@@ -1,1 +1,3 @@
+=pod
+
 This is README.pod

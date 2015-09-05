@@ -1,1 +1,1 @@
-subdir/markdown
+markdown

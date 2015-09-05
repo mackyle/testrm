@@ -1,10 +1,13 @@
-This is Markdown
-================
+===============
+Does this work?
+===============
 
+---------
+And this?
+---------
 
-And this is another header
---------------------------
+~~~~~~~~
+Or this?
+~~~~~~~~
 
-
-And this is not
-~~~~~~~~~~~~~~~
+See [INSTALL](INSTALL.md) file.

@@ -3,6 +3,8 @@ This is deep down md
 
 ![Git Logo](git-logo.png "New Git Logo")
 
+[Code](hello.c "Source Code")
+
 Image
 -----
 

@@ -1,2 +1,9 @@
 This is deep down md
 ====================
+
+Image
+~~~~~
+
+> ![Git Logo](git-logo.png "New Git Logo")
+
+Gotta ~~love~~ it.

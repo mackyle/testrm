@@ -4,7 +4,7 @@ This is deep down md
 ![Git Logo](git-logo.png "New Git Logo")
 
 Image
-~~~~~
+-----
 
 > ![Git Logo](git-logo.png "New Git Logo")
 ![Git Logo](git-logo.png "New Git Logo")

@@ -295,3 +295,12 @@ Hay
   Peach |   236    | Yum | Yes | Good
   Pear  |   102    | Yes
   Hay   |   977
+
+### November
+
+No brakes[sic].
+  Food  | Calories | Tasty?
+  ----- | --------:|:------:
+  Apple |    95    | Yes
+  Pear  |   102    | Yes
+  Hay   |   977    |

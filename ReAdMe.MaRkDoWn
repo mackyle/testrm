@@ -188,6 +188,22 @@ Hay   |
 | Pear  |   102    | Yes    |
 | Hay   |   977    |        |
 
+### Chi
+
+| Food  | Calories | Tasty? |
+  ----  | --------:|:------:
+| Apple |    95    | Yes    |
+  Pear  |   102    | Yes
+| Hay   |   977    |        |
+
+### Psy
+
+  Food  | Calories | Tasty?
+| ----- | --------:|:------:|
+  Apple |    95    | Yes
+| Pear  |   102    | Yes    |
+  Hay   |   977
+
 ## Tests (Not Recognized)
 
 ### Bravo

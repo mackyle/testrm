@@ -165,6 +165,23 @@ Hay   |
 
 ### Tau
 
+||
+| -
+| Apple
+| Pear
+| Hay
+
+
+### Upsilon
+
+| |
+| -
+| Apple
+| Pear
+| Hay
+
+### Phi
+
 ## Tests (Not Recognized)
 
 ### Bravo
@@ -218,6 +235,15 @@ Hay
 
 |
 |------
+| Apple
+| Pear
+| Hay
+
+### Kilo
+
+||
+|-
+|
 | Apple
 | Pear
 | Hay

@@ -204,7 +204,6 @@ Hay   |
 | Pear  |   102    | Yes    |
   Hay   |   977
 
-
 ### Omega
 
   Food  | Calories | Tasty?
@@ -279,3 +278,20 @@ Hay
 | Apple
 | Pear
 | Hay
+
+### Lima
+
+  Food  | Calories | Tasty? | Too
+  ----- | --------:|:------:
+  Apple |    95    | Yes
+  Pear  |   102    | Yes
+  Hay   |   977    |
+
+### Mike
+
+  Food  | Calories | Tasty?
+  ----- | --------:|:------:|---
+  Apple |    95    | Yes
+  Peach |   236    | Yum | Yes | Good
+  Pear  |   102    | Yes
+  Hay   |   977

@@ -148,7 +148,20 @@ Hay   |
 
 ### Rho
 
+||
+|-------|
+| Apple |
+| Pear  |
+| Hay   |
+
+
 ### Sigma
+
+||
+|-
+| Apple
+| Pear
+| Hay
 
 ### Tau
 

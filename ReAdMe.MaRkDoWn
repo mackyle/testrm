@@ -63,3 +63,41 @@ Content Cell  | Content Cell
 ## Tests
 
 ### Theta
+
+ Food  | Calories | Tasty? |
+-------|---------:|:------:|
+ Apple |    95    | Yes    |
+ Pear  |   102    | Yes    |
+ Hay   |   977    |        |
+
+### Iota
+
+| Food  | Calories | Tasty?
+|-------|---------:|:------:
+| Apple |    95    | Yes
+| Pear  |   102    | Yes
+| Hay   |   977    |
+
+### Kappa
+
+| Food  | Calories | Tasty? |
+|-------|---------:|:------:|
+| Apple |    95    | Yes    |
+| Pear  |   102    | Yes    |
+| Hay   |   977    ||
+
+### Lambda
+
+| Food  | Calories | Tasty? |
+|-------|---------:|:------:|
+| Apple |    95    | Yes    |
+| Pear  ||  102             |
+| Hay   |   977    |        |
+
+### Mu
+
+ Food  | Calories | Tasty? |
+-------|---------:|:------:|
+ Apple      95   || Yes    |
+ Pear  |   102    | Yes    |
+ Hay   |   977    |        |

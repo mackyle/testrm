@@ -60,7 +60,7 @@ Content Cell  | Content Cell
 | Pear  |   102    | Yes    |
 | Hay   |   977    |        |
 
-## Tests
+## Tests (Recognized Okay)
 
 ### Theta
 
@@ -101,3 +101,110 @@ Content Cell  | Content Cell
  Apple      95   || Yes    |
  Pear  |   102    | Yes    |
  Hay   |   977    |        |
+
+### Nu
+
+| Food  |
+|-------|
+| Apple |
+| Pear  |
+| Hay   |
+
+### Xi
+
+| Food
+|------
+| Apple
+| Pear
+| Hay
+
+| Food
+| ----
+| Apple
+| Pear
+| Hay
+
+### Omicron
+
+Food  |
+------|
+Apple |
+Pear  |
+Hay   |
+
+Food  |
+----  |
+Apple |
+Pear  |
+Hay   |
+
+### Pi
+
+|       |
+|-------|
+| Apple |
+| Pear  |
+| Hay   |
+
+### Rho
+
+### Sigma
+
+### Tau
+
+## Tests (Not Recognized)
+
+### Bravo
+
+Food
+----
+Apple
+Pear
+Hay
+
+### Charlie
+
+| Apple |
+| Pear  |
+| Hay   |
+
+### Echo
+
+| Apple
+| Pear
+| Hay
+
+### Foxtrot
+
+Apple |
+Pear  |
+Hay   |
+
+### Golf
+
+|------
+| Apple
+| Pear
+| Hay
+
+### Hotel
+
+-----
+Apple
+Pear
+Hay
+
+### India
+
+|-------|
+| Apple |
+| Pear  |
+| Hay   |
+
+### Juliett
+
+|
+|------
+| Apple
+| Pear
+| Hay

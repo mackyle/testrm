@@ -204,6 +204,16 @@ Hay   |
 | Pear  |   102    | Yes    |
   Hay   |   977
 
+
+### Omega
+
+  Food  | Calories | Tasty?
+  ----- | --------:|:------:
+  Apple |    95    | Yes
+  Peach |   236    | Yum | Yes | Good
+  Pear  |   102    | Yes
+  Hay   |   977
+
 ## Tests (Not Recognized)
 
 ### Bravo

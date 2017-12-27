@@ -41,3 +41,36 @@ One line block
     ```
     One+4 line block
     ```
+
+----
+
+```
+ 1+One Line block
+```
+
+```
+  2+One line block
+```
+
+```
+   3+One line block
+```
+
+```
+    4+One line block
+```
+
+ ```
+ 0-line
+-1-line
+```
+
+ ```
+ 0-line
+-1-line
+ ```
+
+ ```
+ 0-line
+-1-line
+  ```

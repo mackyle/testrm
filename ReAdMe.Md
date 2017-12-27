@@ -42,6 +42,7 @@ One line block
     One+4 line block
     ```
 
+<!-- above all work as expected -->
 ----
 
 ```
@@ -60,17 +61,35 @@ One line block
     4+One line block
 ```
 
+<!-- above all work as expected -->
+----
+
  ```
  0-line
 -1-line
+  +1-line
 ```
 
  ```
  0-line
 -1-line
+  +1-line
  ```
 
  ```
  0-line
 -1-line
+  +1-line
   ```
+
+ ```
+  +1-line
+ 0-line
+-1-line
+ ```
+
+ ```
+-1-line
+  +1-line
+ 0-line
+ ```

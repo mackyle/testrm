@@ -93,3 +93,18 @@ One line block
   +1-line
  0-line
  ```
+
+ ```
+-1-line
+  +1-line
+```
+
+ ```
+-1-line
+  +1-line
+  ```
+
+<!-- above all behave as though trailing trailing ``` indented same
+number of spaces as leading ``` and then upto the same number of
+leading spaces as the leading ``` are removed from each line of the
+block before formatting it. -->

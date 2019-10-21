@@ -49,4 +49,28 @@ quatre:
         will not get formatted
 
 
+Voilá:
+
+>        not formatted 8
+>        not formatted 8
+
+>       not formatted 7
+>       not formatted 7
+
+>      not formatted 6
+>      not formatted 6
+
+>     not formatted 5
+>     not formatted 5
+
+>    not formatted 4
+>    not formatted 4
+
+>   not formatted 3
+>   not formatted 3
+
+>  not formatted 2
+>  not formatted 2
+
+
 End of tests.

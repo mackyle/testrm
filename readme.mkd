@@ -1,0 +1,31 @@
+# In the beginning...
+
+## There was void...
+
+### And then...
+
+#### Still got nothing...
+
+##### And...
+
+###### Yet...
+
+*Italic With Asterisk*
+
+_Italic With Underscore_
+
+* More Intended Italic With Asterisk That Ends Up As An Unordered List *
+
+_ More Italic With Underscore _
+
+**Bold With Double Asterisks**
+
+__Bold With Double Underscores__
+
+** More Bold With Double Asterisks **
+
+__ More Bold With Double Underscores __
+
+~~Strikethrough with double tildes~~
+
+~~ More Strikethrough with double tildes ~~
